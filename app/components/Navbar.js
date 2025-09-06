@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className='h-16 bg-purple-700 flex justify-between px-3 items-center text-white'>
     <div className='logo font-bold text-2xl'>
             
-            <Link href="/">UrlShortner</Link>
+            <Link href="/">UrlShortener</Link>
     </div>
         <ul className='flex justify-center items-center gap-4'>
             <Link href="/"><li>Home</li></Link>

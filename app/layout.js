@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "UrlShortner",
-  description: "Url Shortner using Nextjs - helps you to shorten your long urls",
+  title: "UrlShortener",
+  description: "Url Shortener using Nextjs - helps you to shorten your long urls",
 };
 
 export default function RootLayout({ children }) {
